@@ -6,3 +6,4 @@ print("hello")
 print("Welcome")
 multiply=a*b
 print("multiplication ",multiply)
+print("multiplication done")
