@@ -7,3 +7,6 @@ print("Welcome")
 multiply=a*b
 print("multiplication ",multiply)
 print("multiplication done")
+
+mod=b/a
+print("mod is",mod)
